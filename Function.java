@@ -1,9 +1,7 @@
-//package DerIntCal
-
+//package Class;
 /**
  * Clase que retorna funciones.
  */
-
 public class Function{
 
     /**
