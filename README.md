@@ -31,4 +31,9 @@ El usuario elige un número.
 El programa imprime el valor de la derivada y de la integral.
 El programa genera el gráfico de la función, por medio de una ventana.
 
-Para graficar las funciones se utilizó la librería XChart, Disponible en: 
+Para graficar las funciones se utilizó la librería XChart, Disponible en: https://github.com/knowm/XChart
+
+Ejemplos:
+
+![alt text](https://github.com/jpparraa/DerIntCal/blob/master/etc/f1.png)
+![alt text](https://github.com/jpparraa/DerIntCal/blob/master/etc/f10.png)
