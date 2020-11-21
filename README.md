@@ -17,19 +17,19 @@ Clonar el repositorio:
 
 Compliar
 
-    javac -cp xchart-3.6.5:. *.java
+    javac -cp xchart-3.6.5.jar:. *.java
     
 Ejecutar
 
-    java -cp xchart-3.6.5:. DerIntCal
+    java -cp xchart-3.6.5.jar:. DerIntCal
 
 Uso:
 
-El programa muestra mediante una terminal 10 funciones con un número asignado.
-El usuario elige un número.
+    El programa muestra mediante una terminal 10 funciones con un número asignado.
+    El usuario elige un número.
 
-El programa imprime el valor de la derivada y de la integral.
-El programa genera el gráfico de la función, por medio de una ventana.
+    El programa imprime el valor de la derivada y de la integral.
+    El programa genera el gráfico de la función, por medio de una ventana.
 
 Para graficar las funciones se utilizó la librería XChart, Disponible en: https://github.com/knowm/XChart
 
