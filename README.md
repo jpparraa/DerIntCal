@@ -31,7 +31,13 @@ Uso:
     El programa imprime el valor de la derivada y de la integral.
     El programa genera el gráfico de la función, por medio de una ventana.
 
-Para graficar las funciones se utilizó la librería XChart, Disponible en: https://github.com/knowm/XChart
+Explicación del código:
+
+    En la clase DerIntCal se encuentra el menú principal y la creación de los gráficos.
+    Para hallar la derivada, se llama a la clase Derivative, que calcula la deriva mediante la formula: (f(x+h)-f(x))/h
+    Para hallar la integral, se llama a la clase Integral, que calcula la integral entre a y b utilizando la regla del trapecio.
+    Adicionalmente, la explicación de la regla del trapecio se encuentra en el siguiente enlace: https://www.youtube.com/watch?v=MQ-Yk3IpHz4 (Gracias, ennraii).
+    Para graficar las funciones se utilizó la librería XChart, Disponible en: https://github.com/knowm/XChart
 
 Ejemplos:
 
