@@ -1,6 +1,6 @@
 DerIntCal
 
-    "DerIntCal" significa "Derivative and Integral Calculador"
+    "DerIntCal" significa "Derivative and Integral Calculator"
     (Calculadora de derivadas e integrales).
 
 Integrantes
